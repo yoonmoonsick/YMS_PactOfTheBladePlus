@@ -13,6 +13,8 @@
 - Level 16: Weapon enhancement +1 (Total: +5)
 - Level 20: Weapon enhancement +1 (Total: +6)
 
+**There is an optional version that stops the weapon enhancement value at +3.**
+
 ## 검의 계약의 변경
 - 재사용 대기 시간이 전투당 한 번에서 턴당 한번으로 변경되었습니다.
 - 행동 대신 보조 행동을 사용합니다.
@@ -25,3 +27,5 @@
 - 레벨 12: 무기 강화 +1 (합: +4)
 - 레벨 16: 무기 강화 +1 (합: +5)
 - 레벨 20: 무기 강화 +1 (합: +6)
+
+**무기 강화 수치가 +3 에서 멈추는 선택적 버전이 있습니다.**
