@@ -1,7 +1,7 @@
 # Pact of the Blade Plus
 
 ## Changes to the Pact of the Blade:
-- The cooldown has been changed from once per combat to once per turn.
+- The cooldown has been removed.
 - It uses a bonus action instead of an action.
 - This change allows for weapon swapping during combat, enabling appropriate use of the newly equipped weapon's skills.
 
@@ -16,7 +16,7 @@
 **There is an optional version that stops the weapon enhancement value at +3.**
 
 ## 검의 계약의 변경
-- 재사용 대기 시간이 전투당 한 번에서 턴당 한번으로 변경되었습니다.
+- 재사용 대기 시간이 제거되었습니다.
 - 행동 대신 보조 행동을 사용합니다.
 - 이 변경을 통해 전투 상황에 따라 무기를 변경하여, 변경한 무기의 스킬을 적절하게 사용할 수 있습니다.
 
